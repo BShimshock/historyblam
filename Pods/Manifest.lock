@@ -1,0 +1,27 @@
+PODS:
+  - Nuke (3.1.0)
+  - Preheat (1.0)
+  - ReachabilitySwift (2.3.3)
+
+DEPENDENCIES:
+  - Nuke
+  - Preheat
+  - ReachabilitySwift (from `https://github.com/ashleymills/Reachability.swift`)
+
+EXTERNAL SOURCES:
+  ReachabilitySwift:
+    :git: https://github.com/ashleymills/Reachability.swift
+
+CHECKOUT OPTIONS:
+  ReachabilitySwift:
+    :commit: 99bf4c6ef9a4ec39dccd1bf4640716713b3dc0f6
+    :git: https://github.com/ashleymills/Reachability.swift
+
+SPEC CHECKSUMS:
+  Nuke: e93fa6ad10472c2d46ddca3a9dc92fd65027e40e
+  Preheat: a68422be3ca8a5f27d1e11e628a5c36147454a04
+  ReachabilitySwift: e0f6b6f280effb47731acfaaa2d5ffe223703793
+
+PODFILE CHECKSUM: 4a6cb9379df8ef37675938d00f2fe2716de23097
+
+COCOAPODS: 1.0.0
